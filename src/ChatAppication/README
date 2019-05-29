@@ -1,0 +1,24 @@
+
+--------------------------------------------------------------------
+
+    ChatAppication
+
+    By:
+    Zecharia bender ID: 320826118
+    Yakov Salavize ID: 203810239
+
+    Date: May 29 2019
+
+--------------------------------------------------------------------
+
+    A simple and lightweight chat Java web application
+    We created a virtual space for chats, conversations,
+    meetings and forums.
+    An arbitrary amount of users can log on to the shared
+    chatroom simply by entering their name.
+    Does not use a database - as all messages and users
+    are stored on the server and are bound to its lifetime.
+    Developed in the context of exercise 3 of the
+    Web Programming with Java course.
+
+--------------------------------------------------------------------
